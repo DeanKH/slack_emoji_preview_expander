@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+.c-texty_autocomplete--emoji .c-texty_autocomplete__result--selected{
+    height: 150px !important;
+ }
+.c-emoji__medium {
+  width: auto !important;
+  height: 100% !important;
+}
+
+.c-texty_autocomplete {
+  max-height: 500px !important;
+}
