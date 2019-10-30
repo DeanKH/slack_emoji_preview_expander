@@ -1,9 +1,15 @@
 @charset "utf-8";
 
-.c-texty_autocomplete--emoji .c-texty_autocomplete__result--selected{
+
+.c-texty_autocomplete--emoji .c-texty_autocomplete__result--selected {
     height: 150px !important;
  }
-.c-emoji__medium {
+
+.c-texty_autocomplete--emoji .c-texty_autocomplete__result {
+  height: 100px;
+}
+
+.c-texty_autocomplete--emoji .c-texty_autocomplete__result_emoji {
   width: auto !important;
   height: 100% !important;
 }
