@@ -17,3 +17,8 @@
 .c-texty_autocomplete {
   max-height: 500px !important;
 }
+
+/* カスタム絵文字アイコンの場合，表示サイズを倍にする */
+.c-message_attachment__image_container[style="width: 128px;"] {
+  width: 256px !important;
+}
